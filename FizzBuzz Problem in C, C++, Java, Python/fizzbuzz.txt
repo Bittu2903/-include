@@ -1,0 +1,27 @@
+// FizzBuzz problem:
+Initial number = 1
+All the numbers upto n given numbers 
+including nth number
+
+if number is divisible by 3 and 5 then display
+'FizzBuzz'
+
+if number is divisible by 3 but not 5 then display
+'Fizz'
+
+if number is divisible by 5 but not 3 then display
+'Buzz'
+
+otherwise return the number.
+
+Sample input: 9
+Sample Output:
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
